@@ -10,5 +10,5 @@
 User.create(username: 'admin', password: 'password')
 User.create(username: 'thanos', password: 'password')
 User.create(username: 'iron-man', password: 'password')
-User.create(username: 'ant-ma n', password: 'password')
+User.create(username: 'ant-man', password: 'password')
 User.create(username: 'captain-america', password: 'password')
